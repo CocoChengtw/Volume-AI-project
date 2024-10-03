@@ -25,7 +25,6 @@ This project is for increase customer value by using models to identify customer
    experiment/notebooks/[Model Explainer].ipynb
 
 
-### Other Experiment Reference
-### Other Experiment Reference
+## Other Experiment Reference
 
 experiment/notebooks/[Experiment].ipynb
