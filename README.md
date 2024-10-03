@@ -1,11 +1,3 @@
-# MLEXPT-Notebook-Template
-
-ML notebook template
-
-## Run in Docker
-``$ make build``
-``$ make run``
-
 ## Run in Local
 
 ### 1. Install Packages Manager
