@@ -15,13 +15,10 @@ This project is for increase customer value by using models to identify customer
 2. **EDA for customers' last activity status**: 
    experiment/notebooks/[Analysis] Last EC day.ipynb
 
-3. **Data Preprocessing**: 
-   experiment/notebooks/[Data Preprocessing].ipynb
-
-4. **Model**: 
+3. **Model**: 
    experiment/notebooks/[Model].ipynb
 
-5. **Analysis Model Result**: 
+4. **Analysis Model Result**: 
    experiment/notebooks/[Model Explainer].ipynb
 
 
