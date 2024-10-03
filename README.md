@@ -6,7 +6,7 @@ This project is for increase customer value by using models to identify customer
 - The project supports predicting customers' future activity status.
 
 
-## Converting Python Apps to Executable with PyInstaller Locally
+## Project Content
 
 1. **Requirements**:
    ```
@@ -23,6 +23,7 @@ This project is for increase customer value by using models to identify customer
 
 5. **Analysis Model Result**: 
    experiment/notebooks/[Model Explainer].ipynb
+
    
-Other Experiment Reference:
+### Other Experiment Reference
 experiment/notebooks/[Experiment].ipynb
